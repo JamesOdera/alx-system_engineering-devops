@@ -1,2 +1,2 @@
 #!/bin/bash 
- ls -pmxa
+ ln -s /bin/ls __ls__
