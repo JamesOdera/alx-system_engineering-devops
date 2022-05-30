@@ -1,2 +1,2 @@
 #!/bin/bash
-head +10 tc\passwd | cat
+cat tc\passwd | head -n 10
